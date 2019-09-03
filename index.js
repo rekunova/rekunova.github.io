@@ -15,7 +15,6 @@ function nextElementOf(collection, current_index = -1) {
 }
 
 function render(word) {
-    console.log(`${word.en} -> ${word.translation}`);
     const word_canvas = document.getElementsByClassName('word')[0];
     const translation_canvas = document.getElementsByClassName('translation')[0];
 
