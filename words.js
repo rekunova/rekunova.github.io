@@ -1,13 +1,13 @@
 const words = [
     {
         id: "1",
-        en: "feasible",
-        translation: "реальный, выполнимый"
+        en: "abundunce",
+        translation: "изобилие, богатство"
     },
     {
         id: "2",
-        en: "vulnerable",
-        translation: "уязвимый"
+        en: "dizzying",
+        translation: "головокружительный"
     },
     // {
     //     id: "3",
@@ -19,15 +19,15 @@ const words = [
     //     en: "tease",
     //     translation: "дразнить"
     // },
-    // {
-    //     id: "5",
-    //     en: "efface",
-    //     translation: "стирать, вычеркивать"
-    // },
+    {
+        id: "5",
+        en: "efface",
+        translation: "стирать, вычеркивать"
+    },
     {
         id: "6",
-        en: "disclose",
-        translation: "обнаруживать"
+        en: "excruciate",
+        translation: "терзать, мучить"
     }
     // {
     //     id: "7",
