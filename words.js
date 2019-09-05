@@ -1,13 +1,13 @@
 const words = [
     {
         id: "1",
-        en: "abundance",
-        translation: "изобилие, богатство"
+        en: "vestige",
+        translation: "след, остаток"
     },
     {
         id: "2",
-        en: "dizzying",
-        translation: "головокружительный"
+        en: "timid",
+        translation: "робкий, застенчивый"
     },
     // {
     //     id: "3",
@@ -21,13 +21,13 @@ const words = [
     // },
     {
         id: "5",
-        en: "efface",
-        translation: "стирать, вычеркивать"
+        en: "stutter",
+        translation: "заикаться"
     },
     {
         id: "6",
-        en: "excruciate",
-        translation: "терзать, мучить"
+        en: "pretext",
+        translation: "отговорка, повод, предлог"
     }
     // {
     //     id: "7",
