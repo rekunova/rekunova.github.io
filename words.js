@@ -1,7 +1,7 @@
 const words = [
     {
         id: "1",
-        en: "abundunce",
+        en: "abundance",
         translation: "изобилие, богатство"
     },
     {
