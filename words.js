@@ -13,7 +13,7 @@ const words = [
         id: "3",
         en: "disclose",
         translation: "обнаруживать, выявлять"
-    }
+    },
     {
         id: "4",
         en: "excruciate",
@@ -28,7 +28,7 @@ const words = [
         id: "6",
         en: "pretext",
         translation: "отговорка, повод, предлог"
-    }
+    },
     {
         id: "7",
         en: "dizzying",
