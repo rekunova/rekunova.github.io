@@ -1,24 +1,24 @@
 const words = [
     {
         id: "1",
-        en: "vestige",
-        translation: "след, остаток"
+        en: "vulnerable",
+        translation: "уязвимый"
     },
     {
         id: "2",
-        en: "timid",
-        translation: "робкий, застенчивый"
+        en: "efface",
+        translation: "вычеркивать, стирать"
     },
-    // {
-    //     id: "3",
-    //     en: "shank",
-    //     translation: "голень"
-    // }
-    // {
-    //     id: "4",
-    //     en: "tease",
-    //     translation: "дразнить"
-    // },
+    {
+        id: "3",
+        en: "disclose",
+        translation: "обнаруживать, выявлять"
+    }
+    {
+        id: "4",
+        en: "excruciate",
+        translation: "мучить, терзать"
+    },
     {
         id: "5",
         en: "stutter",
@@ -29,16 +29,31 @@ const words = [
         en: "pretext",
         translation: "отговорка, повод, предлог"
     }
-    // {
-    //     id: "7",
-    //     en: "midget",
-    //     translation: "карлик"
-    // },
-    // {
-    //     id: "8",
-    //     en: "soothsayer",
-    //     translation: "предсказатель"
-    // }
+    {
+        id: "7",
+        en: "dizzying",
+        translation: "головокружительный"
+    },
+    {
+        id: "8",
+        en: "vestige",
+        translation: "след,остаток"
+    },
+    {
+        id: "8",
+        en: "timid",
+        translation: "робкий, застенчивый"
+    },
+    {
+        id: "8",
+        en: "abundance",
+        translation: "изобилие, богатство"
+    },
+    {
+        id: "8",
+        en: "shank",
+        translation: "голень"
+    }
 ]
 
 export default words;
