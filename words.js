@@ -1,59 +1,59 @@
 const words = [
     {
         id: "1",
-        en: "vulnerable",
-        translation: "уязвимый"
+        en: "vain",
+        translation: "напрасный, бесполезный"
     },
     {
         id: "2",
-        en: "efface",
-        translation: "вычеркивать, стирать"
+        en: "dazzling",
+        translation: "ослепительный"
     },
     {
         id: "3",
-        en: "disclose",
-        translation: "обнаруживать, выявлять"
+        en: " to appeal",
+        translation: "привелкать, притягивать"
     },
     {
         id: "4",
-        en: "excruciate",
-        translation: "мучить, терзать"
+        en: "appeal",
+        translation: "призыв, обращение"
     },
     {
         id: "5",
-        en: "stutter",
-        translation: "заикаться"
-    },
-    {
-        id: "6",
-        en: "pretext",
-        translation: "отговорка, повод, предлог"
-    },
-    {
-        id: "7",
-        en: "dizzying",
-        translation: "головокружительный"
-    },
-    {
-        id: "8",
-        en: "vestige",
-        translation: "след,остаток"
-    },
-    {
-        id: "8",
-        en: "timid",
-        translation: "робкий, застенчивый"
-    },
-    {
-        id: "8",
-        en: "abundance",
-        translation: "изобилие, богатство"
-    },
-    {
-        id: "8",
-        en: "shank",
-        translation: "голень"
+        en: "impudent",
+        translation: "наглый"
     }
+    // {
+    //     id: "6",
+    //     en: "crawl",
+    //     translation: "ползать"
+    // },
+    // {
+    //     id: "7",
+    //     en: "dizzying",
+    //     translation: "головокружительный"
+    // },
+    // {
+    //     id: "8",
+    //     en: "vestige",
+    //     translation: "след,остаток"
+    // },
+    // {
+    //     id: "8",
+    //     en: "timid",
+    //     translation: "робкий, застенчивый"
+    // },
+    // {
+    //     id: "8",
+    //     en: "abundance",
+    //     translation: "изобилие, богатство"
+    // },
+    // {
+    //     id: "8",
+    //     en: "shank",
+    //     translation: "голень"
+    // }
 ]
 
 export default words;
